@@ -1,0 +1,6 @@
+E:\Semester4\PBL3\QLPT\PBL\DTO\bin\Debug\DTO.dll
+E:\Semester4\PBL3\QLPT\PBL\DTO\bin\Debug\DTO.pdb
+E:\Semester4\PBL3\QLPT\PBL\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Semester4\PBL3\QLPT\PBL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Semester4\PBL3\QLPT\PBL\DTO\obj\Debug\DTO.dll
+E:\Semester4\PBL3\QLPT\PBL\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,9 @@
+E:\Semester4\PBL3\QLPT\PBL\DAL\bin\Debug\DAL.dll
+E:\Semester4\PBL3\QLPT\PBL\DAL\bin\Debug\DAL.pdb
+E:\Semester4\PBL3\QLPT\PBL\DAL\bin\Debug\DTO.dll
+E:\Semester4\PBL3\QLPT\PBL\DAL\bin\Debug\DTO.pdb
+E:\Semester4\PBL3\QLPT\PBL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Semester4\PBL3\QLPT\PBL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Semester4\PBL3\QLPT\PBL\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Semester4\PBL3\QLPT\PBL\DAL\obj\Debug\DAL.dll
+E:\Semester4\PBL3\QLPT\PBL\DAL\obj\Debug\DAL.pdb

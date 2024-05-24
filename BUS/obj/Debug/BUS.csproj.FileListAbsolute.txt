@@ -1,0 +1,11 @@
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\BUS.dll
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\BUS.pdb
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\DAL.dll
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\DTO.dll
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\DAL.pdb
+E:\Semester4\PBL3\QLPT\PBL\BUS\bin\Debug\DTO.pdb
+E:\Semester4\PBL3\QLPT\PBL\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Semester4\PBL3\QLPT\PBL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Semester4\PBL3\QLPT\PBL\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Semester4\PBL3\QLPT\PBL\BUS\obj\Debug\BUS.dll
+E:\Semester4\PBL3\QLPT\PBL\BUS\obj\Debug\BUS.pdb
